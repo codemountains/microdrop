@@ -1,5 +1,7 @@
 # microDrop
 
+## microCMS Media Share Extension
+
 iOS 17以降の共有メニューから画像を1枚選び、microCMSにアップロードできます。対応形式は JPEG、PNG、GIF、WebP、HEIC、HEIF です。
 
 ## サービスを登録する
